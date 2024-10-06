@@ -1,0 +1,30 @@
+h3 {
+    color: #580EC2;
+}
+
+h5 {
+    color: #7855C2;
+}
+
+form {
+    color:#2967B0;
+    display: table;
+}
+
+input {
+    /* margin: 5px 25px 5px 25px; */
+    display: table-cell;
+}
+
+label { 
+    display: table-cell; 
+}
+
+p { 
+    display: table-row;  
+}
+
+input[type=submit] {
+    color: #580EC2;
+    /* background-color: #7855C2; */
+}
